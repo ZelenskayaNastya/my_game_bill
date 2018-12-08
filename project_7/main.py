@@ -144,7 +144,7 @@ def main():
             if r[0] == str(raion):
                 price_square = int(r[13]) / int(r[8])
                 D += 1
-                print(r[0], price_square)
+                print(r[0], ': Цена за квадратный метр', price_square)
         print('Количество найденых квартир: ', D)
 
 
