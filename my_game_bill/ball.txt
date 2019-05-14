@@ -1,0 +1,16 @@
+170, 65,img/1.PNG
+205, 65,img/2.PNG
+240, 65,img/3.PNG
+275, 65,img/4.PNG
+310, 65,img/5.PNG
+187, 97,img/6.PNG
+222, 97,img/7.PNG
+257, 97,img/8.PNG
+292, 97,img/9.PNG
+205, 129,img/10.PNG
+240, 129,img/11.PNG
+275, 129,img/12.PNG
+222, 161,img/13.PNG
+257, 161,img/14.PNG
+240, 193,img/15.PNG
+238, 715,img/first.PNG
